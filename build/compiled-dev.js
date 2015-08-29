@@ -311,7 +311,7 @@ defaultOptions = {
 
 jwPlayerUrl = function() {
   var protocol, url;
-  url = '//jwpsrv.com/library/sq8RfmIXEeOtdhIxOQfUww.js';
+  url = '//content.jwplatform.com/libraries/drdWOdT1.js';
   protocol = location.protocol === 'https:' ? 'https:' : 'http:';
   return "" + protocol + url;
 };
